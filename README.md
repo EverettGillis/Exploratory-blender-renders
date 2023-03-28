@@ -17,4 +17,4 @@ Interestingly, the same techniques used to integrate non-uniform 3D solids can b
 \
 ```framework.blend``` files include code for vertex frameworks and faces.<br/>
 ```solid.png``` files show rendered frameworks.<br/>
-Requirements: blender 3.1.0, python 3.10.
+Requirements: Blender 3.1.0, Python 3.10.
